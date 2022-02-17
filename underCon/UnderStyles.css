@@ -1,0 +1,31 @@
+body {
+    background-color: #DC851F;
+}
+
+
+h1 {
+    text-align: center;
+    position: relative;
+    margin-top: 5%;
+    color: white;
+    font-family: cursive;
+    font-size:xx-large;
+}
+
+.IMMG {
+    position: relative;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.simonIMG {
+    position: relative;
+    margin-top: 20px;
+    border-radius: 40px;
+    height: 350px;
+}
+
+.marg{
+    margin-top: 112px;
+}
+
